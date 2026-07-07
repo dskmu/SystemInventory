@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\bin\Debug\net8.0\SI.Infrastructure.deps.json
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\bin\Debug\net8.0\SI.Infrastructure.dll
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\bin\Debug\net8.0\SI.Infrastructure.pdb
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\bin\Debug\net8.0\SI.Domain.dll
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\bin\Debug\net8.0\SI.Domain.pdb
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\obj\Debug\net8.0\SI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\obj\Debug\net8.0\SI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\obj\Debug\net8.0\SI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\obj\Debug\net8.0\SI.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\obj\Debug\net8.0\SI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\obj\Debug\net8.0\SI.Infra.19B9BFED.Up2Date
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\obj\Debug\net8.0\SI.Infrastructure.dll
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\obj\Debug\net8.0\refint\SI.Infrastructure.dll
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\obj\Debug\net8.0\SI.Infrastructure.pdb
+C:\Users\User\Desktop\SystemInventory-main\SI.Infrastructure\obj\Debug\net8.0\ref\SI.Infrastructure.dll

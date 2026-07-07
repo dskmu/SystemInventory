@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\bin\Debug\net8.0\SI.Domain.deps.json
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\bin\Debug\net8.0\SI.Domain.dll
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\bin\Debug\net8.0\SI.Domain.pdb
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\obj\Debug\net8.0\SI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\obj\Debug\net8.0\SI.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\obj\Debug\net8.0\SI.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\obj\Debug\net8.0\SI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\obj\Debug\net8.0\SI.Domain.dll
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\obj\Debug\net8.0\refint\SI.Domain.dll
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\obj\Debug\net8.0\SI.Domain.pdb
+C:\Users\User\Desktop\SystemInventory-main\SI.Domain\obj\Debug\net8.0\ref\SI.Domain.dll
